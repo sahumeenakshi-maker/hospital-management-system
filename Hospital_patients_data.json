@@ -1,0 +1,114 @@
+{
+    "1000": {
+        "name": "rahul sharama",
+        "age": 21,
+        "gender": "m",
+        "contact": "9216782010",
+        "address": "406, shanti nagar",
+        "blood_group": "A+"
+    },
+    "1001": {
+        "name": "Avni singh",
+        "age": 20,
+        "gender": "F",
+        "contact": "9067856432",
+        "address": "A+",
+        "blood_group": "fekejwc"
+    },
+    "1002": {
+        "name": "Avni Singh",
+        "age": 20,
+        "gender": "F",
+        "contact": "9087654123",
+        "address": "667, barkat nagar jaipur",
+        "blood_group": "A+"
+    },
+    "1003": {
+        "name": "Sudhanshu Saini",
+        "age": 21,
+        "gender": "F",
+        "contact": "8307897534",
+        "address": "465,durgapura jaipur(raj)",
+        "blood_group": "B+"
+    },
+    "1004": {
+        "name": "1",
+        "age": 21,
+        "gender": "M",
+        "contact": "32864290174",
+        "address": "379, udaipur(raj)",
+        "blood_group": "O+"
+    },
+    "1005": {
+        "name": "nkewhdiO9EWW833396",
+        "age": 12,
+        "gender": "21",
+        "contact": "EWWKD7982",
+        "address": "4",
+        "blood_group": "A+"
+    },
+    "1006": {
+        "name": "Avni Ved",
+        "age": 21,
+        "gender": "F",
+        "contact": "8906734521",
+        "address": "276, barkat nagar udaipur(raj)",
+        "blood_group": "A+"
+    },
+    "1007": {
+        "name": "Sudhanshu Saini ",
+        "age": 20,
+        "gender": "M",
+        "contact": "9215729630",
+        "address": "736, mansinghpura (raj)",
+        "blood_group": "B+\\"
+    },
+    "1008": {
+        "name": "Tanvi Singh",
+        "age": 19,
+        "gender": "F",
+        "contact": "8497924028",
+        "address": "o+",
+        "blood_group": "o+"
+    },
+    "1009": {
+        "name": "Suhana Singh",
+        "age": 20,
+        "gender": "F",
+        "contact": "135698765",
+        "address": "201, hostel jaipur",
+        "blood_group": "A+"
+    },
+    "1010": {
+        "name": "suhana Maheshveri",
+        "age": 30,
+        "gender": "F",
+        "contact": "9273864921",
+        "address": "281, rudrapur, jaipur(raj)",
+        "blood_group": "o-"
+    },
+    "1011": {
+        "name": "Harsha Sahu",
+        "age": 30,
+        "gender": "F",
+        "contact": "92893937100",
+        "address": "890, shanti nagar(raj)",
+        "blood_group": "A+"
+    },
+    "1012": {
+        "name": "Kriti Sahu",
+        "age": 22,
+        "gender": "F",
+        "contact": "8479282010",
+        "address": "376, trivani jaipur",
+        "blood_group": "O+"
+    },
+    "1013": {
+        "name": "3",
+        "age": 1012,
+        "gender": "300",
+        "contact": "8239138792",
+        "address": "680, rajasthan",
+        "blood_group": "A+"
+    }
+}

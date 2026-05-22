@@ -1,0 +1,62 @@
+{
+    "0001": {
+        "patient_id": "1000",
+        "amount": 300.0,
+        "date": "2025-10-29",
+        "patient_name": "rahul sharama"
+    },
+    "0002": {
+        "patient_id": "1000",
+        "amount": 200000.76,
+        "date": "2025-10-29",
+        "patient_name": "rahul sharama"
+    },
+    "0003": {
+        "patient_id": "1006",
+        "amount": 200000.0,
+        "date": "2025-10-29",
+        "patient_name": "Avni Ved"
+    },
+    "0004": {
+        "patient_id": "1009",
+        "amount": 2000.0,
+        "date": "2025-10-29",
+        "patient_name": "Suhana Singh"
+    },
+    "0005": {
+        "patient_id": "1010",
+        "amount": 4000.0,
+        "date": "2025-10-29",
+        "patient_name": "suhana Maheshveri"
+    },
+    "0006": {
+        "patient_id": "1013",
+        "amount": 699.0,
+        "date": "2025-10-29",
+        "patient_name": "3"
+    },
+    "0007": {
+        "patient_id": "1009",
+        "amount": 693.0,
+        "date": "2025-10-29",
+        "patient_name": "Suhana Singh"
+    },
+    "0008": {
+        "patient_id": "1008",
+        "amount": 567.0,
+        "date": "2025-10-29",
+        "patient_name": "Tanvi Singh"
+    },
+    "0009": {
+        "patient_id": "1006",
+        "amount": 769.0,
+        "date": "2025-10-29",
+        "patient_name": "Avni Ved"
+    },
+    "0010": {
+        "patient_id": "1004",
+        "amount": 500.0,
+        "date": "2025-10-29",
+        "patient_name": "1"
+    }
+}
